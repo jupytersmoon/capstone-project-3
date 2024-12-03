@@ -48,4 +48,4 @@ Ada 1 target:
 * Function yang di-pickle adalah function yang akan preprocess data mentah/input dan memodelkan sesuai dengan model pilihan kemudian memberikan output prediksi kelas (0 atau 1)
 
 # PENTING: Pickle
-Pastikan format data input sesuai dengan format data Travel Insurance DENGAN MENGHILANGKAN KOLOM "Claim"
+Pastikan format data input sesuai dengan format data Travel Insurance
