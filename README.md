@@ -39,8 +39,8 @@ Ada 1 target:
 * Confusion matrix
 * 3 model yang diuji: (KNN tidak dipakai karena eksekusi terlalu lama)
   1. SMOTE + Logistic Regression default
-  2. SMOTE + Wighted Logistic Regression
-  3. SMOTE + Decision Tree max depth 5
+  2. SMOTE + Weighted Logistic Regression
+  3. Weighted Logistic Regression (without SMOTE)
 * Model yang diambil adalah yang memiliki Recall kelas 0 + Recall kelas 1 terbesar (Model 2)
 
 ### Pickle
